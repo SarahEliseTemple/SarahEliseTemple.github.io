@@ -2,7 +2,6 @@
 
 source "https://rubygems.org"
 
-gem "jekyll-remote-theme"
 
 gem "jekyll-theme-chirpy", "~> 7.6"
 
